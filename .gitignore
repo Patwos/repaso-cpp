@@ -22,3 +22,8 @@ programa
 .idea/
 .DS_Store
 Thumbs.db
+
+# ignorar ejecutables de R6
+pares
+suma
+maximo
