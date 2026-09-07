@@ -1,0 +1,9 @@
+{
+  "name": "Depurar (Linux/WSL)",
+  "type": "cppdbg",
+  "request": "launch",
+  "program": "${workspaceFolder}/programa",
+  "MIMode": "gdb",
+  "externalConsole": false,
+  "preLaunchTask": "compilar"
+}
