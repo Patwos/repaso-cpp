@@ -29,4 +29,5 @@ public:
     void set(int pos, int val);
     int* get(int pos);
     int tam();
+    
 };
